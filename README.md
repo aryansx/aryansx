@@ -12,7 +12,7 @@
 
 ### A little about me
 
-I'm Aryan, an undergraduate student studying Computer Science & Artifical Intelligence, I usually just build things as a solution to problems I encounter.
+I'm Aryan, an undergraduate student studying Computer Science & Artifical Intelligence, I love to build things as a solution to problems I encounter.
 
 ### My toolkit
 
