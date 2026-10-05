@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="68" viewBox="0 0 760 68" role="img" aria-labelledby="title">
   <title id="title">Rust, Python, C#, TypeScript, Linux</title>
-  <g fill="#171717">
+  <g fill="#565656">
     <rect x="5" y="9" width="123" height="54" />
     <rect x="143" y="9" width="141" height="54" />
     <rect x="299" y="9" width="91" height="54" />
     <rect x="405" y="9" width="205" height="54" />
     <rect x="625" y="9" width="134" height="54" />
   </g>
-  <g stroke="#171717" stroke-width="2">
-    <rect x="1" y="5" width="122" height="52" fill="#f2f0e9" />
-    <rect x="139" y="5" width="140" height="52" fill="#f2f0e9" />
-    <rect x="295" y="5" width="90" height="52" fill="#171717" />
-    <rect x="401" y="5" width="204" height="52" fill="#d5ff3f" />
-    <rect x="621" y="5" width="133" height="52" fill="#f2f0e9" />
+  <g stroke="#ededed" stroke-width="2">
+    <rect x="1" y="5" width="122" height="52" fill="#191919" />
+    <rect x="139" y="5" width="140" height="52" fill="#191919" />
+    <rect x="295" y="5" width="90" height="52" fill="#ededed" />
+    <rect x="401" y="5" width="204" height="52" fill="#ff4b45" />
+    <rect x="621" y="5" width="133" height="52" fill="#191919" />
   </g>
-  <g font-family="DejaVu Sans Mono, monospace" font-size="16" font-weight="700" letter-spacing="1" text-anchor="middle" fill="#171717">
+  <g font-family="DejaVu Sans Mono, monospace" font-size="16" font-weight="700" letter-spacing="1" text-anchor="middle" fill="#ededed">
     <text x="62" y="37">RUST</text>
     <text x="209" y="37">PYTHON</text>
-    <text x="340" y="37" fill="#f2f0e9">C#</text>
-    <text x="503" y="37">TYPESCRIPT</text>
+    <text x="340" y="37" fill="#111111">C#</text>
+    <text x="503" y="37" fill="#111111">TYPESCRIPT</text>
     <text x="687" y="37">LINUX</text>
   </g>
 </svg>
