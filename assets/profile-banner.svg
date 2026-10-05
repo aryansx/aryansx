@@ -1,46 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
-  <title id="title">Aryan Saini / sxuce</title>
-  <desc id="desc">Developer in the United Kingdom. Linux tools, chemistry exploration, and useful apps.</desc>
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#111827" />
-      <stop offset="1" stop-color="#0b1020" />
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#5eead4" />
-      <stop offset="1" stop-color="#a78bfa" />
-    </linearGradient>
-    <radialGradient id="glow">
-      <stop offset="0" stop-color="#6d28d9" stop-opacity="0.22" />
-      <stop offset="1" stop-color="#6d28d9" stop-opacity="0" />
-    </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity="0.07" />
-    </pattern>
-  </defs>
-  <rect x="1" y="1" width="998" height="298" rx="20" fill="url(#background)" stroke="#293347" />
-  <rect x="2" y="2" width="996" height="296" rx="19" fill="url(#grid)" />
-  <ellipse cx="806" cy="164" rx="255" ry="180" fill="url(#glow)" />
-  <rect x="40" y="35" width="5" height="18" rx="2" fill="#5eead4" />
-  <text x="58" y="49" fill="#a6b4cc" font-family="DejaVu Sans Mono, monospace" font-size="12" letter-spacing="2">SXUCE / PROFILE</text>
-  <circle cx="824" cy="44" r="3" fill="#5eead4" />
-  <text x="838" y="48" fill="#a6b4cc" font-family="DejaVu Sans Mono, monospace" font-size="10" letter-spacing="1">UNITED KINGDOM</text>
-  <text x="40" y="127" fill="#f1f5f9" font-family="DejaVu Sans, sans-serif" font-size="49" font-weight="700" letter-spacing="-2">Aryan Saini<tspan fill="#5eead4">.</tspan></text>
-  <text x="43" y="166" fill="#c1ccdd" font-family="DejaVu Sans, sans-serif" font-size="18">Turning ideas into things you can use.</text>
-  <rect x="43" y="196" width="70" height="3" rx="1.5" fill="url(#accent)" />
-  <text x="43" y="231" fill="#93a4bf" font-family="DejaVu Sans Mono, monospace" font-size="11">LINUX TOOLS / CHEMISTRY / APPS</text>
-  <g transform="translate(649 89)">
-    <rect width="305" height="153" rx="12" fill="#0c1424" stroke="#34415b" />
-    <path d="M1 33H304" stroke="#28364d" />
-    <circle cx="17" cy="17" r="4" fill="#f87171" />
-    <circle cx="32" cy="17" r="4" fill="#fbbf24" />
-    <circle cx="47" cy="17" r="4" fill="#5eead4" />
-    <text x="285" y="21" fill="#8394b0" text-anchor="end" font-family="DejaVu Sans Mono, monospace" font-size="10">~/sxuce</text>
-    <text x="20" y="63" font-family="DejaVu Sans Mono, monospace" font-size="13" fill="#c4b5fd">$ build --with-curiosity</text>
-    <text x="20" y="91" font-family="DejaVu Sans Mono, monospace" font-size="12" fill="#93a4bf">ideas <tspan fill="#5eead4">→</tspan> experiments <tspan fill="#5eead4">→</tspan> apps</text>
-    <text x="20" y="121" font-family="DejaVu Sans Mono, monospace" font-size="12" fill="#5eead4">&gt; keep exploring</text>
-    <rect x="155" y="110" width="7" height="14" rx="1" fill="#5eead4" opacity="0.75" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
+  <title id="title">ARYAN SAINI - STUDYING UNDERGRADUATE COMPUTER SCIENCE &amp; ARTIFICAL INTELLIGENCE</title>
+  <desc id="desc">A minimalist brutalist banner with oversized black type, an ivory background, sharp borders, and a lime geometric accent.</desc>
+  <rect x="12" y="12" width="987" height="307" fill="#171717" />
+  <rect x="1.5" y="1.5" width="985" height="305" fill="#f2f0e9" stroke="#171717" stroke-width="3" />
+  <path d="M33 33H65M33 33V65" fill="none" stroke="#171717" stroke-width="3" />
+  <text x="32" y="139" fill="#171717" font-family="DejaVu Sans, sans-serif" font-size="92" font-weight="900" letter-spacing="-5">ARYAN SAINI</text>
+  <path d="M33 169H952" stroke="#171717" stroke-width="3" />
+  <g fill="#171717" font-family="DejaVu Sans Mono, monospace" font-size="18" font-weight="600" letter-spacing="0.2">
+    <text x="34" y="212">- STUDYING UNDERGRADUATE</text>
+    <text x="34" y="245">COMPUTER SCIENCE &amp; ARTIFICAL INTELLIGENCE</text>
   </g>
-  <path d="M42 268H958" stroke="#253149" />
-  <rect x="42" y="268" width="100" height="1" fill="url(#accent)" />
+  <g transform="translate(852 50)">
+    <rect x="0" y="0" width="48" height="48" fill="#d5ff3f" />
+    <rect x="48" y="0" width="48" height="48" fill="#171717" />
+    <rect x="0" y="48" width="48" height="48" fill="#171717" />
+    <rect x="48" y="48" width="48" height="48" fill="#f2f0e9" stroke="#171717" stroke-width="3" />
+  </g>
+  <rect x="848" y="194" width="104" height="80" fill="#d5ff3f" stroke="#171717" stroke-width="3" />
+  <path d="M872 250V218H904M904 250H928V218" fill="none" stroke="#171717" stroke-width="5" />
+  <rect x="34" y="274" width="52" height="6" fill="#171717" />
+  <rect x="92" y="274" width="19" height="6" fill="#171717" />
+  <rect x="117" y="274" width="6" height="6" fill="#171717" />
 </svg>
